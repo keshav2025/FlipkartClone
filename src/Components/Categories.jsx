@@ -1,5 +1,5 @@
 import React from 'react';
-import './Categories.css'; // Add CSS styles in a separate file
+import './Categories.css'; 
 
 const categories = [
   { name: 'Top Offers', icon: 'https://rukminim1.flixcart.com/fk-p-flap/128/128/image/698ba0cebe456aaf.jpg?q=100' },

@@ -1,0 +1,16 @@
+.footer {
+  padding: 20px;
+  background-color: rgb(42, 41, 41);
+  color: aliceblue;
+  display: flex;
+}
+
+.GroupsCompnies {}
+
+.disp {
+  width: 200PX;
+}
+.bold{
+  font-weight: 900;
+  
+}
