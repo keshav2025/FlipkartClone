@@ -1,0 +1,33 @@
+.categories-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin: 20px;
+  padding: 15px;
+  border: 2px solid white;
+  box-shadow: 2px 2px 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.category {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.category-icon {
+  width: 80px;
+  height: 80px;
+  margin-bottom: 10px;
+  border-radius: 50%;
+  background-color: #f3f3f3;
+  padding: 10px;
+  box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.category p {
+  font-size: 14px;
+  color: #333;
+}
